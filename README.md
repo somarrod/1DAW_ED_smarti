@@ -1,14 +1,45 @@
 
-# UML: Plànols de construcció de l’aplicació Karma
-**Autora: Sofia Martí Rodríguez**
+# 🧭 UML: Plànols de construcció de l’aplicació **Karma**
 
-*Mòdul: Entorns de Desenvolupament *
-        *1er del Cicle Superior de DW*
+> 📘 *Autora: Sofia Martí Rodríguez*  
+> 🎓 *Mòdul: Entorns de Desenvolupament*  
+> 🧑‍💻 *1r del Cicle Superior de Desenvolupament d'Aplicacions Web*
 
+---
 
-Aquest git està organitzat en **2 directoris principals**, on podreu trobar:
+## 📂 Estructura del repositori
 
-- **doc_professor**: documentació/links sobre el mòdul, la seua descripció detallada, justificació, descripció dels recursos utilitzats, avaluació i conclusions.
-- **doc_alumne**: documentació alineada amb els resultats d’aprenentatge, preparada per a que l’alumne treballa amb ella.
+Aquest repositori està organitzat en **dos directoris principals**:
 
+### 📁 `doc_professor`
+Conté:
+- Documentació i enllaços sobre el mòdul
+- Descripció detallada del projecte
+- Justificació pedagògica
+- Recursos utilitzats
+- Sistema d’avaluació
+- Conclusions
 
+### 📁 `doc_alumne`
+Conté:
+- Documentació alineada amb els **resultats d’aprenentatge**
+- Materials preparats per a que l’alumne puga treballar de manera autònoma
+
+---
+
+## 🛠️ Objectiu del projecte
+
+Aquest projecte té com a finalitat utilitzar **UML com a eina de planificació i disseny** per a l’aplicació *Karma*, dins del context del mòdul d’Entorns de Desenvolupament.
+
+---
+
+## 📌 Notes addicionals
+
+- Aquest repositori està pensat per a ús **educatiu**.
+- Qualsevol contribució o suggeriment és benvingut!
+
+---
+
+## 📎 Contacte
+
+Per a qualsevol dubte o proposta, pots contactar amb l’autora a través del canal habitual del mòdul.
