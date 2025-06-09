@@ -14,7 +14,7 @@
 - <a href="https://www.canva.com/design/DAGpyGKIGMs/OQRJmXXGaW4aIaIRfamnKg/edit?utm_content=DAGpyGKIGMs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
     Tasca 5
 </a>
-💡 *Et recomane obrir en un altra pestanya o utilitzar Cntr+click*
+💡 *Et recomane obrir en un altra pestanya o utilitzar Cntr+click per obrir els enllaços*
 
 ## 📂 Estructura del repositori
 
