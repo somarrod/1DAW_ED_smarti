@@ -7,6 +7,15 @@
 
 ---
 
+## 📚 Presentacions
+- <a href="https://www.canva.com/design/DAGnP2lkp80/jeae5WCFoenApkBPYQoThg/edit?utm_content=DAGnP2lkp80&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+    Tasca 4
+</a>
+- <a href="https://www.canva.com/design/DAGpyGKIGMs/OQRJmXXGaW4aIaIRfamnKg/edit?utm_content=DAGpyGKIGMs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+    Tasca 5
+</a>
+💡 *Et recomane obrir en un altra pestanya o utilitzar Cntr+click*
+
 ## 📂 Estructura del repositori
 
 Aquest repositori està organitzat en **dos directoris principals**:
