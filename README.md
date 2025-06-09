@@ -6,6 +6,9 @@
 > 🧑‍💻 *1r del Cicle Superior de Desenvolupament d'Aplicacions Web*
 
 ---
+## 🙏 Agraïments
+Volem expressar el nostre sincer agraïment a l’institut **IES Enrique Tierno Galván de Moncada**, origen de la idea inicial del projecte Karma. La seua inspiració i enfocament innovador han estat fonamentals per al desenvolupament d’aquesta adaptació didàctica. Sense el seu treball previ, aquest projecte no hauria sigut possible.
+
 
 ## 🛠️ Objectiu del projecte
 
